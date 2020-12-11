@@ -21,7 +21,13 @@ Le dossier [data](data/) contient un fichier exemple pour tester le job talend
 
 ## Récuperer les adresses depuis l'api Rest  
 Le dossier [api](api/) contient l'api Rest créée avec Spring Boot  
-
+### Configuration de l'accées à la base de données PostgreSQL  
+Dans le fichier `src/main/resources/application.properties`, veuillez ajouter les informations d'accées à la base de données  
+```properties
+spring.datasource.url=jdbc:postgresql://[server]:[port]/[database]?
+spring.datasource.username=[username]
+spring.datasource.password=[password]
+```
 ### Tester l'api  
 Après le lancement de l'api, vous pouvez y acceder depuis le lien  
 `localhost/8080/adresse/search?adresse=[votre recherche]`  
