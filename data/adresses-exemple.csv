@@ -1,0 +1,20 @@
+id;id_fantoir;numero;rep;nom_voie;code_postal;code_insee;nom_commune;code_insee_ancienne_commune;nom_ancienne_commune;x;y;lon;lat;alias;nom_ld;libelle_acheminement;nom_afnor;source_position;source_nom_voie
+97602_201ltz_00002;;2;;Ruelle Malboro;97650;97602;Bandraboua;;;510841.98;8597867.96;45.099855;-12.683449;;;BANDRABOUA;RUELLE MALBORO;inconnue;inconnue
+97602_201ltz_00008;;8;;Ruelle Malboro;97650;97602;Bandraboua;;;510844.05;8597882.01;45.099874;-12.683322;;;BANDRABOUA;RUELLE MALBORO;inconnue;inconnue
+97602_201ltz_00014;;14;;Ruelle Malboro;97650;97602;Bandraboua;;;510855.01;8597888.97;45.099975;-12.683259;;;BANDRABOUA;RUELLE MALBORO;inconnue;inconnue
+97602_201ltz_00015;;15;;Ruelle Malboro;97650;97602;Bandraboua;;;510855.22;8597863.2;45.099977;-12.683492;;;BANDRABOUA;RUELLE MALBORO;inconnue;inconnue
+97602_w4dqj1_00015;;15;;Rue Combo;97650;97602;Bandraboua;;;510867.03;8597804.04;45.100086;-12.684027;;;BANDRABOUA;RUE COMBO;inconnue;inconnue
+97602_w4dqj1_00040;;40;;Rue Combo;97650;97602;Bandraboua;;;510862.03;8598070.99;45.100039;-12.681613;;;BANDRABOUA;RUE COMBO;inconnue;inconnue
+97602_w4dqj1_00129;;129;;Rue Combo;97650;97602;Bandraboua;;;510923.99;8597954.96;45.10061;-12.682662;;;BANDRABOUA;RUE COMBO;inconnue;inconnue
+97602_w4dqj1_00150;;150;;Rue Combo;97650;97602;Bandraboua;;;510855.85;8598087.25;45.099982;-12.681466;;;BANDRABOUA;RUE COMBO;inconnue;inconnue
+97602_w4dqj1_00212;;212;;Rue Combo;97650;97602;Bandraboua;;;510912.98;8597849.03;45.100509;-12.68362;;;BANDRABOUA;RUE COMBO;inconnue;inconnue
+63004_pybw0g_00001;;1;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685741.77;6536059.86;2.816022;45.924083;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00002;;2;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685734.6;6536175.26;2.815926;45.925122;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00003;;3;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685670.82;6536009.27;2.815108;45.923626;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00004;;4;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685739.12;6536151.48;2.815985;45.924908;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00005;;5;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685645.69;6536003.78;2.814784;45.923576;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00006;;6;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685745.62;6536117.15;2.81607;45.924599;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00007;;7;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685619.64;6535997.84;2.814448;45.923522;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00009;;9;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685583.39;6535974.28;2.813981;45.923309;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+63004_pybw0g_00010;;10;;Allee des Sports;63770;63004;Les Ancizes-Comps;;;685735.98;6536068.42;2.815947;45.92416;;;LES ANCIZES COMPS;ALLEE DES SPORTS;inconnue;inconnue
+05003_9qvl6d_00001_d;;1;d;Quartier l'Agulle;05470;05003;Aiguilles;;;1005964.51;6416716.23;6.869334;44.78211;;;AIGUILLES;QUARTIER L AGULLE;inconnue;inconnue
