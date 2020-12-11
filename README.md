@@ -32,4 +32,4 @@ spring.datasource.password=[password]
 Après le lancement de l'api, vous pouvez y acceder depuis le lien  
 `localhost/8080/adresse/search?adresse=[votre recherche]`  
 
-Actuellement la page d'accueil lancé lors de demarrage de l'api ne marche pas correctement, l'api reste disponnible qu'avec un client api, vous pouvez utiliser [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=fr) sous chrome.
+Actuellement la page d'accueil lancée lors du demarrage de l'api ne marche pas correctement, l'api reste disponnible qu'avec un client api, vous pouvez utiliser [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=fr) sous chrome.
