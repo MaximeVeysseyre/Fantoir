@@ -11,7 +11,7 @@ PostgreSQL
 ## Jeux de données  
 Les jeux de données utilsés pout la réalisation de ce projet sont localisés dans ce lien [BAN](https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/)  
 
-## shcéma de la base de données  
+## Schéma de la base de données  
 Ci-dessous le schéma de la base de données  
 ![alt text](db_schema/class_diagram.png "Schéma base de données")
 
